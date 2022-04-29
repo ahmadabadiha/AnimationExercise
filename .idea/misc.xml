@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/NP/AndroidStudioProjects/Animationexercise/app/src/main/res/drawable/ali2_background.xml" value="0.191" />
+        <entry key="..\:/Users/NP/AndroidStudioProjects/Animationexercise/app/src/main/res/drawable/ali2_foreground.xml" value="0.191" />
+        <entry key="..\:/Users/NP/AndroidStudioProjects/Animationexercise/app/src/main/res/drawable/ali_background.xml" value="0.191" />
+        <entry key="..\:/Users/NP/AndroidStudioProjects/Animationexercise/app/src/main/res/drawable/ali_foreground.xml" value="0.1885" />
+        <entry key="..\:/Users/NP/AndroidStudioProjects/Animationexercise/app/src/main/res/drawable/animated_drawable.xml" value="0.1915" />
+        <entry key="..\:/Users/NP/AndroidStudioProjects/Animationexercise/app/src/main/res/drawable/ic_baseline_fast_forward_24.xml" value="0.1085" />
+        <entry key="..\:/Users/NP/AndroidStudioProjects/Animationexercise/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1085" />
+        <entry key="..\:/Users/NP/AndroidStudioProjects/Animationexercise/app/src/main/res/drawable/ic_launcher_foregrof.xml" value="0.1085" />
+        <entry key="..\:/Users/NP/AndroidStudioProjects/Animationexercise/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1085" />
+        <entry key="..\:/Users/NP/AndroidStudioProjects/Animationexercise/app/src/main/res/drawable/pause.xml" value="0.191" />
+        <entry key="..\:/Users/NP/AndroidStudioProjects/Animationexercise/app/src/main/res/drawable/vectoranimator.xml" value="0.191" />
+        <entry key="..\:/Users/NP/AndroidStudioProjects/Animationexercise/app/src/main/res/drawable/video.xml" value="0.191" />
+        <entry key="..\:/Users/NP/AndroidStudioProjects/Animationexercise/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/NP/AndroidStudioProjects/Animationexercise/app/src/main/res/mipmap-anydpi-v26/ali.xml" value="0.1915" />
+        <entry key="..\:/Users/NP/AndroidStudioProjects/Animationexercise/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1085" />
+        <entry key="..\:/Users/NP/AndroidStudioProjects/Animationexercise/app/src/main/res/xml/scale_anim.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
